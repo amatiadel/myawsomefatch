@@ -1,0 +1,17 @@
+[
+    {
+        "name" : "adel",
+        "age"  : 19 , 
+        "pays" : "Algeria"
+    },
+    {
+        "name" : "adel2",
+        "age"  : 12 , 
+        "pays" : "Algeria"
+    },
+    {
+        "name" : "adel3",
+        "age"  : 14 , 
+        "pays" : "Algeria"
+    }
+]
